@@ -1,5 +1,5 @@
 # Bosch's Model Extraction Attack For Video Classification
-## Team 17 
+## Team 17 - IIT Indore
 ### **Inter IIT Tech Meet 10.0**
 
 ### Folder Structure
@@ -17,3 +17,13 @@ Each of the above folders have the last obtained checkpoint of the extracted mod
 
 ### Running Environment
 Training codes were run on a single server equipped with NVIDIA V100 GPU. Evaluations codes were run on Google Colaboratory with a Pro Plus subscription.
+
+### Contributors
+- Anup Kumar Gupta
+- Rupesh Kumar
+- Aryan Rastogi
+- Siddesh Shelke
+- Hasan Mustafa
+- Safdar Inamdar
+- Tanishq Selot
+- Ashutosh Nayak
