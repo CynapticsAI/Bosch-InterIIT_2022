@@ -4,6 +4,7 @@
 ### A. Training
 #### Setup
 - Download the entire folder on your local drive.
+- Download Swin Transformer Model from https://github.com/microsoft/Swin-Transformer and place it as `./VST/checkpoints/swint.pth`  
 - Navigate to the folder directory, and setup the virtual environment as:
 ```
 >python -m venv v1
