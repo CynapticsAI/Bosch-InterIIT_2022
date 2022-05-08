@@ -32,7 +32,7 @@ We provide the following links to download these datasets:
 > Kinetics 400: [Drive Link 1](https://drive.google.com/drive/folders/1-5K4BxC0GbBe9x6Wxjzdd6orpANkKab1?usp=sharing)
 > Kinetics 600: [Drive Link 2](https://drive.google.com/drive/folders/1nDsW-C09gO_eSD-6cJLow8zN9wSFAWDK?usp=sharing)
 
-- Put the checkpoints of the trained models in the `checkpoints` folder. We provide our checkpoints for P1 and P2 models for both the Black and Grey Box settings under the same.
+- Put the checkpoints of the trained models in the `checkpoints` folder. Our checkpoints for P1 and P2 models for both the Black and Grey Box settings can be accessed at [Checkpoints](https://drive.google.com/drive/folders/1YKL7C75yISUQPQV-8ITSDuHuvV__O8mJ?usp=sharing).  
 
 #### B. Evaluation
 Separate jupyter scripts have been prepared for evaluation of both P1 and P2 models under the Black Box and the Grey Box settings. Ensure that the paths at the beginning of each script are correct and redirect to the concerned location. The scripts are:
